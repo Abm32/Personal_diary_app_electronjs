@@ -8,6 +8,7 @@ This is a personal diary app. Here one can enter their daily diary entries and t
 2. Jose Jimmy [https://github.com/jose-jimmy]
 ## Link to product walkthrough
 [link to video]
+![Screenshot (178)](https://user-images.githubusercontent.com/110992125/236640855-b12cf664-b255-4935-ade6-da72e3acb543.png)
 ## How it Works ?
 1. The APP provised users with two input fields. One for entry name and one for the entry. Upon submission the entry is saved onto the notes folder named with the entry name as a txt file.
 2. Embed video of project demo
