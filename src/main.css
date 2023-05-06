@@ -21,3 +21,9 @@ a {
 a:hover{
     color: rgb(118, 96, 138);
 }
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
