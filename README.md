@@ -14,8 +14,11 @@ This is a personal diary app. Here one can enter their daily diary entries and t
 2. Embed video of project demo
 ## Libraries used
 Node js - v20.1.0
+
 Electron js - v1.4.13
+
 HTML5
+
 CSS
 ## How to configure
 Step 1 - Intsall Node js on your system (https://nodejs.org/en/download)
