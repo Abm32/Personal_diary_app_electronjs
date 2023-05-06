@@ -4,8 +4,8 @@
 # Project Name
 Long Description about project. This project do that. This project is awesome...
 ## Team members
-1. Name [Embed personal github URL]
-2. Name [Embed perosnal github URL]
+1. Abhimanyu R B [https://github.com/Abm32]
+2. Jose Jimmy [https://github.com/jose-jimmy]
 ## Link to product walkthrough
 [link to video]
 ## How it Works ?
