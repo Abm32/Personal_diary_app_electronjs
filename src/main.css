@@ -27,3 +27,7 @@ a:hover{
     justify-content: center;
     align-items: center;
 }
+.submit:hover{
+    background-color: rgb(188, 182, 194);
+    color: rgb(118, 96, 138);
+}
